@@ -1,0 +1,16 @@
+[
+{
+  "modid": "Undercast",
+  "name": "Undercast Mod",
+  "description": "Overcast Stat Indicator Mod",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["HeartPattern"],
+  "credits": "Overcast Stat Indicator Mod",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
