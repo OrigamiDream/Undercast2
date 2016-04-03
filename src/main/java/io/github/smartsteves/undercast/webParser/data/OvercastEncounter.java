@@ -1,4 +1,4 @@
-package undercast.webParser.data;
+package io.github.smartsteves.undercast.webParser.data;
 
 import java.util.ArrayList;
 

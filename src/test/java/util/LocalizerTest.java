@@ -14,7 +14,7 @@ import java.io.FileInputStream;
 public class LocalizerTest {
     @Before
     public void before() throws Exception {
-        Localizer.getInstance().changeLanguageFile(new FileInputStream(new File("S:\\Programming\\Undercast1.8.9\\src\\main\\test\\io\\github\\smartsteves\\undercast\\util\\DL.json")));
+        Localizer.getInstance().changeLanguageFile(new FileInputStream(new File("S:\\Programming\\Undercast1.8.9\\src\\main\\test\\io\\github\\smartsteves\\io.github.smartsteves.undercast.undercast\\util\\DL.json")));
         assert Localizer.getInstance().getLocalizeString("Setting.Error.FileNotFound").equals("SFNF");
     }
 

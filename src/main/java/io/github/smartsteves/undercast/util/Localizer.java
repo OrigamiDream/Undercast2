@@ -1,4 +1,4 @@
-package undercast.util;
+package io.github.smartsteves.undercast.util;
 
 import com.google.gson.JsonElement;
 import com.google.gson.JsonParser;

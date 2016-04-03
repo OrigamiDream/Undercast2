@@ -1,4 +1,4 @@
-package undercast.data;
+package io.github.smartsteves.undercast.data;
 
 /**
  * Created by jun26 on 2016-04-01.

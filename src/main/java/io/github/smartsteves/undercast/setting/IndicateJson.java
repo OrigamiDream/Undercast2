@@ -1,4 +1,4 @@
-package undercast.setting;
+package io.github.smartsteves.undercast.setting;
 
 /**
  * Created by jun26 on 2016-03-27.

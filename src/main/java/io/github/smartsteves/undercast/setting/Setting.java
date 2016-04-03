@@ -1,4 +1,4 @@
-package undercast.setting;
+package io.github.smartsteves.undercast.setting;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;

@@ -1,4 +1,4 @@
-package undercast.setting.gui;/**
+package io.github.smartsteves.undercast.setting.gui;/**
  * Created by jun26 on 2016-03-29.
  */
 

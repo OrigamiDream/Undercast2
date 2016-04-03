@@ -1,4 +1,4 @@
-package undercast.data;
+package io.github.smartsteves.undercast.data;
 
 import java.util.HashMap;
 
